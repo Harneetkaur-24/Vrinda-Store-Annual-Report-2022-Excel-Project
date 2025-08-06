@@ -17,8 +17,10 @@ Conditional Formatting
 ✅ Highest selling categories: Ethnic Dresses, Kurtas
 
 # 🔗 Project Files
-Excel Dashboard: Business_Analyst_Project_Excel_VrindaStore_HarneetKaur.xlsx
-PDF Report: Business_Analyst_Project_Excel_VrindaStore_HarneetKaur.pdf
+## 🔗 Project Files  
+- [Excel Dashboard](https://github.com/Harneetkaur-24/Vrinda-Store-Annual-Report-2022-Excel-Project/blob/main/Vrinda-Store-Annual-Report-2022-Excel-Project.xlsx)  
+- [PDF Report](https://github.com/Harneetkaur-24/Vrinda-Store-Annual-Report-2022-Excel-Project/blob/main/Vrinda-Store-Annual-Report-2022-Excel-Project.pdf.pdf)  
+
 
 # 🎯 Objective
 Help Vrinda Store understand their customers and plan strategies to increase sales in 2023 through data-driven insights.
